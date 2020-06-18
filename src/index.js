@@ -7,9 +7,10 @@ import { MuiThemeProvider } from '@material-ui/core';
 import { mainTheme } from './theme';
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from '@apollo/react-hooks';
+import { REACT_APP_SERVER_URL } from './envVars';
 
 const client = new ApolloClient({
-  uri: 'https://todo-hasura-nwvjz.web.sparta.kintohub.net/v1/graphql',
+  uri: REACT_APP_SERVER_URL,
 });
 
 ReactDOM.render(
