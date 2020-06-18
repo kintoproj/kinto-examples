@@ -15,5 +15,5 @@ RUN yarn global add serve
 WORKDIR /usr/src/app
 COPY --from=0 /usr/src/app/build .
 COPY --from=0 /usr/src/app/scripts/replaceEnvVars.sh .
-EXPOSE 5000
+EXPOSE 3000
 CMD ./replaceEnvVars.sh && serve -s .
