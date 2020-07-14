@@ -314,7 +314,7 @@ persistence:
   ##
   subPath: ""
 
-  # storageClass: "-"
+  storageClass: "ssd"
   accessModes:
     - ReadWriteOnce
   size: 8Gi
