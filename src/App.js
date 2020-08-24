@@ -97,7 +97,18 @@ function App() {
         </Toolbar>
       </AppBar>
       <div className="content">
-        <Paper component="form" className="input-form">
+        <Paper component="form" className="input-form" onSubmit={() => {
+          addTodo({
+            variables: {
+              todos: [{
+                status: 'ACTIVE',
+                task: newTodo,
+                created_at: 'now()'
+              }]
+            },
+          });
+          setNewTodo('');
+        }}>
           <InputBase
             placeholder="Create New TODO"
             inputProps={{ 'aria-label': 'create new todo' }}
@@ -106,18 +117,7 @@ function App() {
             onChange={(evt) => { setNewTodo(evt.target.value) }}
           />
           <Divider orientation="vertical" />
-          <IconButton color="primary" aria-label="directions" onClick={() => {
-            addTodo({
-              variables: {
-                todos: [{
-                  status: 'ACTIVE',
-                  task: newTodo,
-                  created_at: 'now()'
-                }]
-              },
-            });
-            setNewTodo('');
-          }}>
+          <IconButton color="primary" aria-label="directions" type="submit">
             <AddIcon />
           </IconButton>
         </Paper>
