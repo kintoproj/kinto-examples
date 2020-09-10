@@ -1,7 +1,4 @@
----
-id: ruby-example
-title: Ruby
----
+# KintoHub Example Ruby App
 
 A sample ruby app for [KintoHub](https://kintohub.com)
 
