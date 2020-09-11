@@ -1,14 +1,10 @@
----
-id: nodejs-api
-title: Node
----
-
+# KintoHub Example - NodeJS API
 
 A sample node Backend API for [KintoHub](https://kintohub.com)
 
 ## :rocket: Deploying on KintoHub
 
-- **Service Type:** Web App
+- **Service Type:** Backend API
 - **Repo:** https://github.com/kintohub-examples/nodejs-api
 - **Branch:** master
 - **Language:** NodeJS
