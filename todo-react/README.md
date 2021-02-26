@@ -16,7 +16,7 @@ This is a fullstack TODO app running with
 ### On Kintohub v1
 
 - Type: `Webapp`
-- Repo: `https://github.com/kintohub/todo-react`
+- Repo: `https://github.com/kintoproj/kinto-examples/tree/main/todo-react`
 - Port: `5000`
 - Language: `Dockerfile`
 - Environment Variables: `REACT_APP_SERVER_URL=https://yourhostname.com/v1/graphql`
