@@ -3,7 +3,7 @@
 This is a fullstack TODO app running with
 
 - [Hasura GraphQL engine](https://github.com/kintoproj/kinto-examples/tree/main/todo-hasura)
-- [PostgreSQL](https://github.com/kintohub/catalog-postgresql)
+- [PostgreSQL](https://github.com/kintoproj/kinto-examples/tree/main/catalog-postgresql)
 - React Frontend
 
 ## Deployment
