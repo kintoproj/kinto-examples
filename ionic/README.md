@@ -4,7 +4,7 @@
 
 - **Service Type:** Static Site
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/ionic
-- **Branch:** master
+- **Branch:** main
 - **Language:** NodeJS
 - **Version:** 10+
 - **Build:** `npm install && npm run build`

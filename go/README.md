@@ -4,7 +4,7 @@
 
 - **Service Type:** Web App
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/go
-- **Branch:** master
+- **Branch:** main
 - **Language:** Go
 - **Language version:** 1.10.0
 - **Build Command:** `go build main.go`

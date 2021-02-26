@@ -5,7 +5,7 @@
 
 - **Service Type:** Static Site
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/angular
-- **Branch:** master
+- **Branch:** main
 - **Language:** NodeJS
 - **Version:** 13
 - **Build:** `npm install && npm run build`

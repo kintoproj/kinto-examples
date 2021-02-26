@@ -4,7 +4,7 @@
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/elixir
-- **Branch:** master
+- **Branch:** main
 - **Language:** Elixir
 - **Language version:** 1.10
 - **Build Command:** `mix local.hex --force && mix local.rebar --force && mix deps.get --quiet && mix`
@@ -21,7 +21,7 @@ An **Elixir** example can be deployed using `Dockerfile` on KintoHub
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/elixir
-- **Branch:** master
+- **Branch:** main
 - **Language:** Dockerfile
 - **Dockerfile Name:** Dockerfile
 - **Port:** 3000

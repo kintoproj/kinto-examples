@@ -4,7 +4,7 @@
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/rust
-- **Branch:** master
+- **Branch:** main
 - **Language:** Rust
 - **Language version:** 1
 - **Build Command:** `cargo build --release`
@@ -21,7 +21,7 @@ The **Rust** example can be deployed using `Dockerfile` on KintoHub
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/rust
-- **Branch:** master
+- **Branch:** main
 - **Language:** Dockerfile
 - **Dockerfile Name:** Dockerfile
 - **Port:** 3000

@@ -4,7 +4,7 @@
 
 - **Service Type:** Web App
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/ruby
-- **Branch:** master
+- **Branch:** main
 - **Language:** Ruby
 - **Language version:** 2.5
 - **Build Command:** `gem install bundler && bundle install`

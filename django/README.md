@@ -4,7 +4,7 @@
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/django
-- **Branch:** master
+- **Branch:** main
 - **Language:** Python
 - **Language version:** 3.7
 - **Build Command:** `pip install -r requirements.txt`

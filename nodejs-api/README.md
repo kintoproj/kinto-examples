@@ -6,7 +6,7 @@ A sample node Backend API for [KintoHub](https://kintohub.com)
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/nodejs-api
-- **Branch:** master
+- **Branch:** main
 - **Language:** NodeJS
 - **Language version:** 14
 - **Build Command:** `npm install`

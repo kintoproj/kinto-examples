@@ -4,7 +4,7 @@
 
 - **Service Type:** Web App
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/nextjs
-- **Branch:** master
+- **Branch:** main
 - **Language:** NodeJS
 - **Language version:** 13
 - **Build Command:** `npm install && npm run build`

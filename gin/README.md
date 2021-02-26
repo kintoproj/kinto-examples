@@ -4,7 +4,7 @@
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/gin
-- **Branch:** master
+- **Branch:** main
 - **Language:** Go
 - **Language version:** 1.12
 - **Build Command:** `go build -o main .`

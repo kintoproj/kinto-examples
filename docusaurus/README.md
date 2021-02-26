@@ -4,7 +4,7 @@
 
 - **Service Type:** Static Site
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/docusaurus
-- **Branch:** master
+- **Branch:** main
 - **Language:** NodeJS
 - **Version:** 10
 - **Build:** `cd website && npm install && npm run build`

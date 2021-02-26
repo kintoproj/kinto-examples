@@ -4,7 +4,7 @@
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/beego
-- **Branch:** master
+- **Branch:** main
 - **Language:** Go
 - **Language version:** 1.13
 - **Build Command:** `go build -o main .`

@@ -4,7 +4,7 @@
 
 - **Service Type:** Backend API
 - **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/express
-- **Branch:** master
+- **Branch:** main
 - **Language:** NodeJS
 - **Language version:** 12
 - **Build Command:** `npm install`
