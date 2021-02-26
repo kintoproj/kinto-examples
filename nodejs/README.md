@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Web App
-- **Repo:** https://github.com/kintohub-examples/nodejs
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/nodejs
 - **Branch:** master
 - **Language:** NodeJS
 - **Language version:** 14
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/nodejs
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/nodejs
 
 $ cd nodejs
 ```

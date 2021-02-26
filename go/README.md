@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Web App
-- **Repo:** https://github.com/kintohub-examples/go
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/go
 - **Branch:** master
 - **Language:** Go
 - **Language version:** 1.10.0
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/go
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/go
 
 $ cd go
 ```

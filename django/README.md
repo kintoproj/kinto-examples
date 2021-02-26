@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/django
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/django
 - **Branch:** master
 - **Language:** Python
 - **Language version:** 3.7
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/django
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/django
 
 $ cd django
 ```

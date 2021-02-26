@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Web App
-- **Repo:** https://github.com/kintohub-examples/ruby
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/ruby
 - **Branch:** master
 - **Language:** Ruby
 - **Language version:** 2.5
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/ruby
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/ruby
 
 $ cd ruby
 ```

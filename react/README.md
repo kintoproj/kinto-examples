@@ -3,7 +3,7 @@
 ### :rocket: Deploying on KintoHub
 
 - **Service Type:** Static Site
-- **Repo:** https://github.com/kintohub-examples/react
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/react
 - **Branch:** master
 - **Language:** NodeJS
 - **Version:** 13
@@ -19,7 +19,7 @@ This will take a few minutes to deploy. Then click on the **Access** tab and cop
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/react
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/react
 
 $ cd react
 ```

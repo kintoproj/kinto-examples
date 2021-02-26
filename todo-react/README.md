@@ -2,7 +2,7 @@
 
 This is a fullstack TODO app running with
 
-- [Hasura GraphQL engine](https://github.com/kintohub/todo-hasura)
+- [Hasura GraphQL engine](https://github.com/kintoproj/kinto-examples/tree/main/todo-hasura)
 - [PostgreSQL](https://github.com/kintohub/catalog-postgresql)
 - React Frontend
 
@@ -11,7 +11,7 @@ This is a fullstack TODO app running with
 ### Prerequisite
 
 - Running Hasura Endpoints e.g. `https://yourhostname.com/v1/graphql`
-- TODO schema ([check this](https://github.com/kintohub/todo-hasura)])
+- TODO schema ([check this](https://github.com/kintoproj/kinto-examples/tree/main/todo-hasura)])
 
 ### On Kintohub v1
 

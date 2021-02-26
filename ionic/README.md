@@ -3,7 +3,7 @@
 ### :rocket: Deploying on KintoHub
 
 - **Service Type:** Static Site
-- **Repo:** https://github.com/kintohub-examples/ionic
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/ionic
 - **Branch:** master
 - **Language:** NodeJS
 - **Version:** 10+
@@ -19,7 +19,7 @@ This will take a few minutes to deploy. Then click on the **Access** tab and cop
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/ionic
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/ionic
 
 $ cd ionic
 ```

@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/fasthttp
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/fasthttp
 - **Branch:** master
 - **Language:** Go
 - **Language version:** 1.13
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/fasthttp
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/fasthttp
 
 $ cd fasthttp
 ```

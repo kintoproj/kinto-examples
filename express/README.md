@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/express
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/express
 - **Branch:** master
 - **Language:** NodeJS
 - **Language version:** 12
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/express
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/express
 
 $ cd express
 ```

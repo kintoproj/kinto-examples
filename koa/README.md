@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/koa
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/koa
 - **Branch:** master
 - **Language:** NodeJS
 - **Language version:** 12
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/koa
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/koa
 
 $ cd koa
 ```

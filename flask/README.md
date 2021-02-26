@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/flask
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/flask
 - **Branch:** master
 - **Language:** Python
 - **Language version:** 3.7
@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/flask
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/flask
 
 $ cd flask
 ```

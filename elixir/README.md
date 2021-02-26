@@ -3,7 +3,7 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/elixir
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/elixir
 - **Branch:** master
 - **Language:** Elixir
 - **Language version:** 1.10
@@ -20,7 +20,7 @@ An **Elixir** example can be deployed using `Dockerfile` on KintoHub
 ### :dolphin: Deploying with Dockerfile
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintohub-examples/elixir
+- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/elixir
 - **Branch:** master
 - **Language:** Dockerfile
 - **Dockerfile Name:** Dockerfile
@@ -33,7 +33,7 @@ An **Elixir** example can be deployed using `Dockerfile` on KintoHub
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintohub-examples/elixir
+$ git clone https://github.com/kintoproj/kinto-examples/tree/main/elixir
 
 $ cd elixir
 ```

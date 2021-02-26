@@ -4,7 +4,7 @@ A hasura graphql gateway with initial database files for an example Graphql Reac
 
 ## Other projects
 
-* [Frontend Todo List App](github.com/kintohub/todo-react)
+* [Frontend Todo List App](https://github.com/kintoproj/kinto-examples/tree/main/todo-react)
 * Requires a Postgres Database which can be []deployed on KintoHub](https://docs.kintohub.com/catalogs/postgresql).
 
 ## Run Hasura Locally

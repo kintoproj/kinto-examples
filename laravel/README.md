@@ -48,7 +48,7 @@ This will take several minutes to complete
 1. Click on the **Create Service** button at the top right of your environment
 2. Choose **Backend API** service from the list
 3. Click on the **Import URL** tab
-4. Enter the repository URL as `https://github.com/kintohub-examples/laravel`
+4. Enter the repository URL as `https://github.com/kintoproj/kinto-examples/tree/main/laravel`
 5. Click on the **Connect** button
 6. Change the **Service Name/Hostname** to `laravel`
 7. Select the language as **Dockerfile**
@@ -82,7 +82,7 @@ We need to deploy a web host proxy to serve the php app on KintoHub.
 1. Click on the **Create Service** button at the top right of your environment
 2. Choose **Web App** service from the list
 3. Click on the **Import URL** tab
-4. Enter the repository URL as `https://github.com/kintohub-examples/laravel`
+4. Enter the repository URL as `https://github.com/kintoproj/kinto-examples/tree/main/laravel`
 5. Click on the **Connect** button
 6. Change the **Service Name/Hostname** to `nginx`
 7. Select the language as **Dockerfile**
