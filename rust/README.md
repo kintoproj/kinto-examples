@@ -33,7 +33,7 @@ The **Rust** example can be deployed using `Dockerfile` on KintoHub
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintoproj/kinto-examples/tree/main/rust
+$ git clone https://github.com/kintoproj/kinto-examples
 
 $ cd rust
 ```

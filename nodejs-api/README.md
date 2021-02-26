@@ -20,7 +20,7 @@ A sample node Backend API for [KintoHub](https://kintohub.com)
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintoproj/kinto-examples/tree/main/nodejs-api
+$ git clone https://github.com/kintoproj/kinto-examples
 
 $ cd nodejs-api
 ```

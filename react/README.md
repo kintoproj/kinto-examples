@@ -19,7 +19,7 @@ This will take a few minutes to deploy. Then click on the **Access** tab and cop
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintoproj/kinto-examples/tree/main/react
+$ git clone https://github.com/kintoproj/kinto-examples
 
 $ cd react
 ```

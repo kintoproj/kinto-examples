@@ -18,7 +18,7 @@
 - Clone the repository to a folder of choice.
 
 ```
-$ git clone https://github.com/kintoproj/kinto-examples/tree/main/gin
+$ git clone https://github.com/kintoproj/kinto-examples
 
 $ cd gin
 ```
