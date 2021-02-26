@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kintohub/node-example.git"
+    "url": "git+https://github.com/kintoproj/kinto-examples.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kintohub/node-example/issues"
+    "url": "https://github.com/kintoproj/kinto-examples/issues"
   },
-  "homepage": "https://github.com/kintohub/node-example#readme",
+  "homepage": "https://github.com/kintoproj/kinto-examples/tree/main/nodejs#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
