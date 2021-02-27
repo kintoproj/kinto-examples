@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd ruby
+$ cd kinto-examples/ruby
 ```
 
 - Install the dependencies

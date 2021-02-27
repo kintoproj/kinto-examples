@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd hapi
+$ cd kinto-examples/hapi
 ```
 
 - Install the dependencies

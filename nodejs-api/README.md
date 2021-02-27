@@ -23,7 +23,7 @@ A sample node Backend API for [KintoHub](https://kintohub.com)
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd nodejs-api
+$ cd kinto-examples/nodejs-api
 ```
 
 - Install the dependencies

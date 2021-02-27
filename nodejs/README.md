@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd nodejs
+$ cd kinto-examples/nodejs
 ```
 
 - Install the dependencies

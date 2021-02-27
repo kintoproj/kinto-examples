@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd go
+$ cd kinto-examples/go
 ```
 
 - Build the app

@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd koa
+$ cd kinto-examples/koa
 ```
 
 - Install the dependencies

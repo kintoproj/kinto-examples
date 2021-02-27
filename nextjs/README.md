@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd nextjs
+$ cd kinto-examples/nextjs
 ```
 
 - Install the dependencies

@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd django
+$ cd kinto-examples/django
 ```
 
 - Build the app

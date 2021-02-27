@@ -37,7 +37,7 @@ An **Elixir** example can be deployed using `Dockerfile` on KintoHub
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd elixir
+$ cd kinto-examples/elixir
 ```
 
 - Install the dependencies

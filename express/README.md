@@ -21,7 +21,7 @@
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd express
+$ cd kinto-examples/express
 ```
 
 - Install the dependencies

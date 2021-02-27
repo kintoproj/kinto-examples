@@ -37,7 +37,7 @@ The **Rust** example can be deployed using `Dockerfile` on KintoHub
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd rust
+$ cd kinto-examples/rust
 ```
 
 - Install the dependencies

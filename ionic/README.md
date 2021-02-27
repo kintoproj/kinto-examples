@@ -22,7 +22,7 @@ This will take a few minutes to deploy. Then click on the **Access** tab and cop
 ```
 $ git clone https://github.com/kintoproj/kinto-examples
 
-$ cd ionic
+$ cd kinto-examples/ionic
 ```
 
 - Install ionic
