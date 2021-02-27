@@ -10,10 +10,11 @@ Follow the instructions on how to deploy a ruby app on the [KintoHub Docs]TODO
 
 ## Local development
 
-1. Apply this template to your [Github](https://github.com/kintoproj/kinto-examples/tree/main/gatsby-site/generate)
-2. Install the dependencies by `yarn`
-3. Run the service `yarn develop`
-4. Visit `localhost:8000` and your website will be there!
+1. Apply this template to your [Github](https://github.com/kintoproj/kinto-examples/generate)
+2. Go to the `gatsby-site` folder
+3. Install the dependencies by `yarn`
+4. Run the service `yarn develop`
+5. Visit `localhost:8000` and your website will be there!
 
 ## :ambulance: Support
 
