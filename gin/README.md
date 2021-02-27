@@ -3,7 +3,8 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/gin
+- **Repo:** https://github.com/kintoproj/kinto-examples
+- **Subfolder Path:** ./gin
 - **Branch:** main
 - **Language:** Go
 - **Language version:** 1.12

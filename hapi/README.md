@@ -3,7 +3,8 @@
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/hapi
+- **Repo:** https://github.com/kintoproj/kinto-examples
+- **Subfolder Path:** ./hapi
 - **Branch:** main
 - **Language:** NodeJS
 - **Language version:** 12

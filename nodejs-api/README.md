@@ -5,7 +5,8 @@ A sample node Backend API for [KintoHub](https://kintohub.com)
 ## :rocket: Deploying on KintoHub
 
 - **Service Type:** Backend API
-- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/nodejs-api
+- **Repo:** https://github.com/kintoproj/kinto-examples
+- **Subfolder Path:** ./nodejs-api
 - **Branch:** main
 - **Language:** NodeJS
 - **Language version:** 14

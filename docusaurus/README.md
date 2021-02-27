@@ -3,7 +3,8 @@
 ### :rocket: Deploying on KintoHub
 
 - **Service Type:** Static Site
-- **Repo:** https://github.com/kintoproj/kinto-examples/tree/main/docusaurus
+- **Repo:** https://github.com/kintoproj/kinto-examples
+- **Subfolder Path:** ./docusaurus
 - **Branch:** main
 - **Language:** NodeJS
 - **Version:** 10
