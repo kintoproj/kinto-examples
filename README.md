@@ -1,5 +1,5 @@
 # KintoHub Examples
-[![slack](https://img.shields.io/badge/slack-kintoproj-brightgreen)](http://slack.kintohub.com/)
+[![slack](https://img.shields.io/badge/slack-kintoproj-brightgreen)](https://slack.kintohub.com)
 
 This directory contains example applications for deployment on KintoHub.
 
